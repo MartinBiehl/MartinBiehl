@@ -43,12 +43,24 @@
 
 <ul>
   <li>
-    <a href="https://actycare.com/">https://actycare.com/</a> <br>
-    <a href="https://triadeesportes.ct.ws/?i=1">https://triadeesportes.ct.ws/?i=1  (simulação, apenas para aprender php)</a><br>
-    <a href="https://github.com/MartinBiehl/hackaton-wethebest">https://github.com/MartinBiehl/hackaton-wethebest (Trabalho de Hackaton)</a><br>
-    <a href="https://github.com/MartinBiehl/FEZTIVAL"> FEZTIVAL, website para contratação de músicos para shows</a><br>
-    <a> Automação do cadastro de Notas fiscais no ambiente do CRM Ploomes (Privado)</a><br>
-    <a> Gerador de documentos de exportação, Packing e Invoice (Privado)</a><br>
-    <a>Website geral da ATC do Brasil (em desenvolvimento)</a><br>
+    <a href="https://actycare.com/">https://actycare.com/</a> 
+  </li>
+  <li>
+    <a href="https://triadeesportes.ct.ws/?i=1">https://triadeesportes.ct.ws/?i=1  (simulação, apenas para aprender php)</a>
+  </li>
+  <li>
+    <a href="https://github.com/MartinBiehl/hackaton-wethebest">https://github.com/MartinBiehl/hackaton-wethebest (Trabalho de Hackaton)</a>
+  </li>
+  <li>
+    <a href="https://github.com/MartinBiehl/FEZTIVAL"> FEZTIVAL, website para contratação de músicos para shows</a>
+  </li>
+  <li>
+    <a> Automação do cadastro de Notas fiscais no ambiente do CRM Ploomes (Privado)</a>
+  </li>
+  <li>
+    <a> Gerador de documentos de exportação, Packing e Invoice (Privado)</a>
+  </li>
+  <li>
+    <a>Website geral da ATC do Brasil (em desenvolvimento)</a>
   </li>
 </ul>
